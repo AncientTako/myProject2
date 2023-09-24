@@ -1,3 +1,9 @@
 C
 
+<<<<<<< HEAD
 Cats eat shit
+=======
+C for cat
+
+dogs eat shit
+>>>>>>> cat
